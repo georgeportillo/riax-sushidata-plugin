@@ -1,0 +1,16 @@
+{
+  "name": "riax-sushidata-gtm",
+  "owner": {
+    "name": "Sushidata"
+  },
+  "plugins": [
+    {
+      "name": "riax-sushidata-gtm",
+      "source": {
+        "source": "github",
+        "repo": "georgeportillo/riax-sushidata-plugin"
+      },
+      "description": "Sushidata context lake + GTM agent: prospecting, outbound, competitor battlecards, ICP signals, and outreach copy."
+    }
+  ]
+}
